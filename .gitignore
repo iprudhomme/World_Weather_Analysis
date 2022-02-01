@@ -6,7 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom ignore
 .DS_Store
+config.py
 
 # Distribution / packaging
 .Python
