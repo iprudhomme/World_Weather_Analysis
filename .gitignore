@@ -9,6 +9,7 @@ __pycache__/
 # Custom ignore
 .DS_Store
 config.py
+API_Practice.ipynb
 
 # Distribution / packaging
 .Python
